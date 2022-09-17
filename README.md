@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ghostcoder259
+- 👋 Hi, I’m Ghost_Coder
 - 👀 I’m interested in Web-Designing/UI&UX designing. 
-- 🌱 I’m currently learning HTML/CSS/Javascript/Python
-- 💞️ I’m looking towarda going solo as a Freelancer
+- 🌱 I’m currently learning HTML/CSS/Javascript, Algorithm and Data Structures
+- 💞️ I’m looking towards working as a freelancer or perhaps a full time programmer
 - 📫 How to reach me <ghost.coder259@gmail.com/+23408125949423>
 
 <!---
